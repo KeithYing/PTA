@@ -1,0 +1,1 @@
+add_executable(1002_demo 1002.cpp)

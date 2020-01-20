@@ -1,0 +1,1 @@
+add_executable(1001_demo 1001.cpp)
